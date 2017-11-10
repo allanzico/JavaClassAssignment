@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Secondary
+comment0.text=\r\n\ This\ class\ uses\ java\ 8\ date\ to\ create\ the\ current\ date\r\n\ @author\ (Allan\ Akanyijuka)\r\n\ @version\ (version\ 1)\r\n
+comment1.params=school
+comment1.target=Secondary(School)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Primary\r\n
+comment2.params=
+comment2.target=void\ addPupils()
+numComments=3

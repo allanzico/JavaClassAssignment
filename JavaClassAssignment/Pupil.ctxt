@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Pupil
+comment0.text=\r\n\ This\ class\ uses\ java\ 8\ date\ to\ create\ the\ current\ date\r\n\ @author\ (Allan\ Akanyijuka)\r\n\ @version\ (version\ 1)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Pupil\r\n\ @param\ args\r\n
+comment2.params=name\ birthDay\ birthMonth\ birthYear
+comment2.target=Pupil(java.lang.String,\ int,\ int,\ int)
+comment3.params=
+comment3.target=long\ getAge()
+comment3.text=\r\n\ Returns\ the\ age\ of\ the\ pupil\ based\ on\ the\ current\ date\ and\ date\ of\ birth\r\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=\r\n\ Returns\ the\ name\ of\ the\ pupil\ \r\n
+comment5.params=
+comment5.target=double\ calculateContribution()
+comment5.text=\r\n\ This\ method\ calculates\ the\ contribution\ of\ the\ parent\ based\ on\ how\ old\r\n\ the\ pupil\ is\r\n
+comment6.params=
+comment6.target=void\ printDetails()
+comment6.text=\r\n\ Prints\ details\ of\ the\ pupil;\ name,\ age\ and\ contribution\r\n
+numComments=7
