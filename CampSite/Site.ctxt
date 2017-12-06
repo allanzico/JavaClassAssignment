@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Site()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Site\r\n
+comment1.params=reserved
+comment1.target=void\ addReservation(Reservation)
+comment1.text=\r\nAdd\ new\ reservation\r\n
+comment2.params=
+comment2.target=int\ numberOfReservations()
+comment2.text=\r\n\ Display\ number\ of\ reservations\ entered\ on\ site\r\n
+comment3.params=
+comment3.target=int\ getTotalPeople()
+comment3.text=\r\n\ Display\ the\ Total\ number\ of\ people\ from\ all\ reservations\r\n
+comment4.params=
+comment4.target=void\ printTotal()
+comment4.text=\r\n\ Print\ the\ sum\ of\ all\ expenses\ from\ reservations\ added\ to\ this\ site\r\n
+comment5.params=
+comment5.target=int\ averageDaysReserved()
+comment5.text=\r\n\ Return\ the\ average\ number\ of\ days\ reserved\ from\ all\ reservations\ entered\ into\ this\ site\r\n
+numComments=6

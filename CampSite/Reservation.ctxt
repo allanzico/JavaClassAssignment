@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Reservation
+comment0.text=\r\n\ \r\n\ \r\n\ @author\ Allan\ Akanyijuka\ \r\n\ @version\ 1.0\r\n
+comment1.params=numberOfPeople\ car\ startDate\ endDate
+comment1.target=Reservation(int,\ boolean,\ Date,\ Date)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Reservation\r\n
+comment2.params=
+comment2.target=boolean\ getCar()
+comment2.text=\r\n\ Return\ whether\ the\ customer\ has\ a\ car\ or\ not\r\n
+comment3.params=
+comment3.target=int\ numberOfPeople()
+comment3.text=\r\n\ Return\ the\ number\ of\ people\ registered\ to\ this\ reservation\r\n
+comment4.params=
+comment4.target=Date\ getStartDate()
+comment4.text=\r\n\ Return\ the\ checkin\ date\ of\ the\ reservation\r\n
+comment5.params=
+comment5.target=Date\ getEndDate()
+comment5.text=\r\n\ Return\ the\ checkout\ date\ of\ the\ reservation\r\n
+comment6.params=
+comment6.target=double\ calculateBill()
+comment6.text=\r\n\ Calculate\ the\ bill\ of\ the\ reservation\r\n
+comment7.params=
+comment7.target=int\ daysDifference()
+comment7.text=\r\n\ Calculate\ the\ number\ of\ days\ booked\ between\ 2\ dates\r\n
+numComments=8
